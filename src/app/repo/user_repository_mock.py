@@ -1,6 +1,6 @@
 
 
-from src.app.entities.user import User
+from ..entities.user import User
 from .user_repository_interface import IUserRepository
 
 
